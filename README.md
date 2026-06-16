@@ -5,7 +5,7 @@
 UI test automation using Playwright with TypeScript on SauceDemo (https://www.saucedemo.com) — a widely used QA practice application simulating an e-commerce storefront.
 
 ### Application Under Test
-- **App:** SauceDemo
+- **App:** SauceDemo [Demo Application]
 - **URL:** https://www.saucedemo.com
 - **Type:** E-commerce demo app (login, product listing, cart, checkout)
 
