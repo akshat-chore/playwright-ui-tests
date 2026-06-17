@@ -1,4 +1,4 @@
-# Playwright UI Test Suite Draft 1
+# Playwright UI Test Suite (Draft 1)
 
 ## Week 2 Plan
 
