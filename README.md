@@ -24,4 +24,4 @@ UI test automation using Playwright with TypeScript on SauceDemo (https://www.sa
 - Playwright with TypeScript [or Pytest with Python]
 - GitHub Actions for CI
 
-Status: started
+Status: started and in progress 
