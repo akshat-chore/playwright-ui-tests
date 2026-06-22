@@ -21,7 +21,7 @@ UI test automation using Playwright with TypeScript on SauceDemo (https://www.sa
 - Integrate GitHub Actions CI to run tests on every push
 
 ### Tools
-- Playwright with TypeScript [or Pytest with Python]
+- Playwright with TypeScript for week 2
 - GitHub Actions for CI
 
 Status: started and in progress 
