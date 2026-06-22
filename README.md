@@ -11,7 +11,7 @@ UI test automation using Playwright with TypeScript on SauceDemo (https://www.sa
 
 ### Planned Work (draft 4)
 - Identify test scenarios and write manual test cases first
-- Set up Playwright project with TypeScript [or Pytest using Python]
+- Set up Playwright project with TypeScript for week 2
 - Implement Page Object Model (POM) structure
 - Write automated UI tests covering key user flows:
   - Login (valid, invalid, locked user)
