@@ -71,4 +71,4 @@ npm run test:report
 
 Implementation complete with all core test scenarios implemented using Page Object Model pattern.
 
-**Last Updated:** June 2026 [v2]
+**Last Updated:** June 2026 [v3]
