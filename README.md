@@ -1,4 +1,4 @@
-# Playwright UI Test Suite - SauceDemo [version 1]
+# Playwright UI Test Suite - SauceDemo [version 2]
 
 UI test automation using Playwright with TypeScript on SauceDemo (https://www.saucedemo.com) — a widely used QA practice application simulating an e-commerce storefront.
 
