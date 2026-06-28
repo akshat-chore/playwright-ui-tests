@@ -1,4 +1,4 @@
-# Playwright UI Automation — SauceDemo
+# Playwright UI Automation — SauceDemo 
 
 ![Playwright](https://img.shields.io/badge/Playwright-1.x-green?logo=playwright)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)
@@ -202,7 +202,7 @@ Tests run on both direct pushes and pull requests, ensuring no broken code reach
 
 ---
 
-## Author
+## Author [version 1]
 
 **Akshat** — QA Engineer Intern  
 [GitHub](https://github.com/akshat-chore) · [LinkedIn](https://linkedin.com/in/akshat-chore)
