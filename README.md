@@ -202,7 +202,7 @@ Tests run on both direct pushes and pull requests, ensuring no broken code reach
 
 ---
 
-## Author [version 9]
+## Author [version 10]
 
 **Akshat** — QA Engineer Intern  
 [GitHub](https://github.com/akshat-chore) · [LinkedIn](https://linkedin.com/in/akshat-chore)
